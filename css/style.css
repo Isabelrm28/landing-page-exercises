@@ -67,3 +67,40 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+.credisiman{
+    background-image: url(https://res.cloudinary.com/dm5tgfpr3/image/upload/v1700534396/i7dwvlpkm7chr0lcqitg.png);
+    height: 125px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.carruseltecnologia{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow: scroll;
+}
+
+.elemento img{
+    width: 500%;
+    border-radius: 10%;
+}
+
+.elemento{
+    flex: 1 0 auto;
+    margin: 0 50px;
+    width: 100px;
+    height: 500px;
+    padding-right: 25%;
+    padding-bottom: 3%;
+    
+}
+
+.simancintanegra {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+
+}
+
+
