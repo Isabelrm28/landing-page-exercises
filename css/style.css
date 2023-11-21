@@ -103,4 +103,20 @@
 
 }
 
+.simancintanegra {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+
+}
+
+.deporte{
+    display: flex;
+    justify-content: space-around;
+  
+}
+
+.deporte img{
+    width: 30%;   
+}
 
